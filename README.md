@@ -29,3 +29,9 @@ This project was designed to:
 
 This dataset is used in a follow-up project to publish telemetry over an intentionally insecure MQTT pipeline, observe attacks in real time, then implement proper defenses.
 
+Information
+------------------
+
+Author❤️: [UTTAM BODARA]( https://github.com/sponsors/uttambodara)
+
+License💀: [MIT License](https://opensource.org/licenses/MIT)
